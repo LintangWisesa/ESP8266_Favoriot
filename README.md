@@ -1,10 +1,12 @@
 #
 
-![favoriot](https://www.favoriot.com/wp-content/uploads/2017/03/favoriot-1.png)
+![favoriot](https://raw.githubusercontent.com/LintangWisesa/ESP8266_Favoriot/master/Favoriot.png)
 
 # ESP8266 & Favoriot
 
-### **[Favoriot](https://www.favoriot.com/home/iotplatform)** offers an IOT platform specifically designed for any Internet of Things (IoT) projects. The platform is developed to support the integration of data from sensors and actuators on the internet. Collecting and storing data from IOT devices become much easier. Moreover, the platform also helps developers in building vertical applications without worry about the hosting. This article will present a step by step example how to upload analog value of a potentiometer from ESP8266 NodeMCU to Favoriot IoT platform.
+### **[Favoriot](https://www.favoriot.com/home/iotplatform)** offers an IOT platform specifically designed for any Internet of Things (IoT) projects. The platform is developed to support the integration of data from sensors and actuators on the internet. Collecting and storing data from IOT devices become much easier. Moreover, the platform also helps developers in building vertical applications without worry about the hosting. 
+
+### This article will present a step by step example how to upload analog value of a potentiometer from ESP8266 NodeMCU to Favoriot IoT platform. Watch video below (or [click here](https://www.youtube.com/watch?v=6uZJtdbYtBs)) for its demonstration, then follow these instructions to start building your project with ESP8266 & Favoriot.
 
 #
 
@@ -26,7 +28,7 @@ To build this project, you need the following items:
 
 Gather your parts then follow the schematics below.
 
-![Tamiya Androino 1.0 schematics](https://raw.githubusercontent.com/LintangWisesa/Tamiya-Androino-1.0/master/TamiyaAndroino.png)
+![ESP8266 Favoriot](https://raw.githubusercontent.com/LintangWisesa/ESP8266_Favoriot/master/ESP8266-Favoriot.png)
 
 #
 
