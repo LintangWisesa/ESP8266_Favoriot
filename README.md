@@ -1,6 +1,6 @@
 #
 
-![favoriot](https://raw.githubusercontent.com/LintangWisesa/ESP8266_Favoriot/master/Favoriot.png)
+![favoriot](https://www.favoriot.com/wp-content/uploads/2017/03/favoriot-1.png)
 
 # ESP8266 & Favoriot
 
